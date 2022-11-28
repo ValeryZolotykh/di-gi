@@ -86,7 +86,7 @@ body {
 /*INTRO*/
 .intro {
     height: 668px;
-    background: 'images/intro.jpg';
+    background: url('images/intro.jpg');
 /*     background: 'https://github.com/ValeryZolotykh/di-gi/tree/main/images'; */
     background-size: cover;
     display: flex;
