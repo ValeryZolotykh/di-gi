@@ -87,7 +87,6 @@ body {
 .intro {
     height: 668px;
     background: url('../../images/intro.jpg');
-/*     background: 'https://github.com/ValeryZolotykh/di-gi/tree/main/images'; */
     background-size: cover;
     display: flex;
     align-items: center;
@@ -469,42 +468,42 @@ body {
 }
 
 .latest-news__item-1{
-    background: url(/images/last_news/1.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/1.jpg) 0 0 no-repeat;
     height: 443px;
 }
 
 .latest-news__item-2{
-    background: url(/images/last_news/5.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/5.jpg) 0 0 no-repeat;
     height: 167px;
 }
 
 .latest-news__item-3{
-    background: url(/images/last_news/2.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/2.jpg) 0 0 no-repeat;
     height: 342px;
 }
 
 .latest-news__item-4{
-    background: url(/images/last_news/6.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/6.jpg) 0 0 no-repeat;
     height: 341px;
 }
 
 .latest-news__item-5{
-    background: url(/images/last_news/3.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/3.jpg) 0 0 no-repeat;
     height: 384px;
 }
 
 .latest-news__item-6{
-    background: url(/images/last_news/7.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/7.jpg) 0 0 no-repeat;
     height: 210px;
 }
 
 .latest-news__item-7{
-    background: url(/images/last_news/4.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/4.jpg) 0 0 no-repeat;
     height: 198px;
 }
 
 .latest-news__item-8{
-    background: url(/images/last_news/8.jpg) 0 0 no-repeat;
+    background: url(../../images/last_news/8.jpg) 0 0 no-repeat;
     height: 437px;
 }
 
