@@ -468,12 +468,12 @@ body {
 }
 
 .latest-news__item-1{
-    background: url(../../images/last_news/1.jpg) 0 0 no-repeat;
+    background: url('../../images/last_news/1.jpg') 0 0 no-repeat;
     height: 443px;
 }
 
 .latest-news__item-2{
-    background: url(../../images/last_news/5.jpg) 0 0 no-repeat;
+    background: url('../../images/last_news/5.jpg') 0 0 no-repeat;
     height: 167px;
 }
 
