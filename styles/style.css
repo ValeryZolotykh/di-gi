@@ -607,7 +607,8 @@ body {
  }
 
 .footer::before{
-    content:url("images/logo_di-gi.svg");
+    /* content:url("images/logo_di-gi.svg"); */
+    content:url(../images/logo_di-gi.svg);
     background-color: var(--main_color);
     width: 165px;
     height: 60px;
