@@ -1,3 +1,5 @@
+# Landing page - Digital Agency
+*oct 2022 - nov 2022*
 ## Task
 Creation of a Landing Page with HTML and CSS technologies, implementing adaptive design for various devices, and aligning with the provided [Figma design](https://www.figma.com/file/Ur6LcCF7T2ruof0daSKYJ2/mob-first?type=design&node-id=0-1&mode=design).
 
